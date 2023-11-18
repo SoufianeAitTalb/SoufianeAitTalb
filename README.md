@@ -3,7 +3,7 @@
 
 - 🧠 I’m currently learning **Angular and React js**
 
-- 📫 How to reach me **sf.aittalb@gmail.com**
+- 📫 How to reach me **soufiane.aittalb01@gmail.com**
 
 - 🤝 **I'm open to collaborating on interesting projects as a developer**
 
