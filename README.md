@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soufiane Ait Talb</h1>
-<h3 align="center">A passionate Full tack web developer from Morocco</h3>
+<h3 align="center">A passionate Full stack web developer from Morocco</h3>
 
 - 🧠 I’m currently learning **Angular and React js**
 
