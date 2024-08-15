@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Soufiane Ait Talb</h1>
 <h3 align="center">A passionate Full stack web developer from Morocco</h3>
 
-- 🧠 I’m currently learning **Angular and React js**
+- 🧠 I’m currently learning **React js and Angular**
 
 - 📫 How to reach me **soufiane.aittalb01@gmail.com**
 
